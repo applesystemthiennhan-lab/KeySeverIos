@@ -1,0 +1,9 @@
+Package: com.sever.apikey
+Name: API Key System Ultimate
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Description: Secure API Key System
+Maintainer: Admin
+Author: Developer
+Section: Tweaks
+Depends: mobilesubstrate
